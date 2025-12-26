@@ -23,7 +23,7 @@ My primary current research focuses on the **Advanced Falling Object Detection S
 
 ## 📬 Connect & Verify
 - **Business:** [anholdings.co](https://anholdings.co/)
-- **Space Tech:** [newspace-int.com](https://newspace-int.com/)
+- **Space Tech:** [newspace-int.com](https://newspaceint.com/)
 - **Academic:** [Researchmap Japan](https://researchmap.jp/nickbarua)
 - **LinkedIn:** [linkedin.com/in/nickbarua](https://www.linkedin.com/in/nickbarua)
 
