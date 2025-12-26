@@ -5,8 +5,8 @@ I am a physicist and C-suite executive specializing in the convergence of **Spac
 ---
 
 ## 🏛 Current Leadership & Affiliations
-* **Chairman & CEO**, [AN Holdings Co.](https://anholdings.co/) — Strategic management and tech-investment.
-* **Director**, [New Space Intelligence (NSI)](https://newspaceint.com/) — Satellite data pipeline services and geospatial AI.
+* **Chairman & CEO**, [AN Holdings Co.](https://anholdings.co/) — Strategic management and tech-investment across North Asia.
+* **Director**, [New Space Intelligence (NSI)](https://newspaceint.com/) — Satellite data pipeline services and geospatial AI analytics.
 * **Visiting Professor**, [Shiga University of Medical Science (SUMS)](https://www.shiga-med.ac.jp/english) — Department of Legal Medicine.
 * **Visiting Professor**, Kobe Gakuin University.
 
@@ -16,8 +16,12 @@ My primary current research focuses on the **Advanced Falling Object Detection S
 
 
 ## 📂 Featured Repositories
-* [**Sensor Fusion Fall Detection**](https://github.com/Nick-Barua/sensor-fusion-fall-detection) - 2025 Flagship research published in *Vehicles*.
-* [**Starlight Synthesis Algorithm**](https://github.com/Nick-Barua/starlight-synthesis-algorithm) - Algorithmic implementation of galactic velocity dispersion models.
+| Category | Repository | Description |
+| :--- | :--- | :--- |
+| **AI & Safety** | [sensor-fusion-fall-detection](https://github.com/Nick-Barua/sensor-fusion-fall-detection) | 2025 Flagship research on human fall detection. |
+| **Physics** | [starlight-synthesis-algorithm](https://github.com/Nick-Barua/starlight-synthesis-algorithm) | Galactic velocity dispersion & spectral synthesis. |
+| **Geospatial** | [nsi-satellite-pipeline](https://github.com/Nick-Barua/nsi-satellite-pipeline) | Architecture for satellite data processing (NSI). |
+| **Leadership** | [executive-tech-strategy](https://github.com/Nick-Barua/executive-tech-strategy) | Frameworks for global technology investment. |
 
 ---
 
