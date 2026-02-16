@@ -7,6 +7,7 @@ I am a physicist and C-suite executive specializing in the convergence of **Spac
 ## 🏛 Current Leadership & Affiliations
 * **Chairman & CEO**, [AN Holdings Co.](https://anholdings.co/) — Strategic management and tech-investment across North Asia.
 * **Director**, [New Space Intelligence (NSI)](https://newspaceint.com/) — Satellite data pipeline services and geospatial AI analytics.
+* **Executive Chairman**, [Hucha Co., Ltd](https://www.hucha.co.jp/) — Sales and management consulting.
 * **Visiting Professor**, [Shiga University of Medical Science (SUMS)](https://www.shiga-med.ac.jp/english) — Department of Legal Medicine.
 * **Visiting Professor**, [Kobe Gakuin University](https://www.kobegakuin.ac.jp/english/)— Department Social Studies of Disaster Management.
 * 
