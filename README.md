@@ -9,17 +9,17 @@
 
 > **Physicist · C-Suite Executive · Researcher** | Based in Hyogo, Japan 🇯🇵
 > BSc Physics — Yale University · MSc Astrophysics — Caltech · PhD — University of Hertfordshire
-> 
-I am physicist and C-suite executive specializing in the convergence of **Space Intelligence**, **Automotive Safety**, and **Global Investment Strategy**. My research utilizes advanced AI architectures—specifically YOLOv7 and RNNs—to solve complex safety and geospatial challenges.
+
+I am a physicist and C-suite executive specializing in the convergence of **Space Intelligence**, **Automotive Safety**, and **Global Investment Strategy**. My research utilizes advanced AI architectures—specifically YOLOv7 and RNNs—to solve complex safety and geospatial challenges.
 
 ---
 
 ## 🏛 Current Leadership & Affiliations
 
 ### 🎓 Academic
-- **Visiting Professor**, [Shiga University of Medical Science (SUMS)](https://www.shiga-med.ac.jp/english) — Department of Legal Medicine
-- **Visiting Professor**, [Kobe Gakuin University](https://www.kobegakuin.ac.jp/english/) — Department of Social Studies of Disaster Management
-- **Director**, [Kobe Institute of Computing](https://www.kic.ac.jp/) — Since 2017
+- **Visiting Professor**, [Shiga University of Medical Science (SUMS)](https://www.shiga-med.ac.jp/english) — Department of Legal Medicine, since 2022
+- **Visiting Professor**, [Kobe Gakuin University](https://www.kobegakuin.ac.jp/english/) — Department of Social Studies of Disaster Management, since 2022
+- **Visiting Professor**, [University of Science and Technology, Chittagong](https://ustc.ac.bd/) — Since 2022
 
 ### 🏢 Executive
 - **Chairman & CEO**, [AN Holdings Co.](https://anholdings.co/) — Strategic management and tech-investment across North Asia
@@ -40,6 +40,16 @@ My primary research addresses the "classification gap" for road users in non-upr
 - **Explainable AI (XAI):** Integrated **SHAP** values provide a forensic audit trail admissible in legal and post-incident reconstruction proceedings.
 - **Acoustic Verification:** **MFCC-based classification** distinguishes fall acoustic signatures from road noise, reducing false positives.
 
+### 📊 Performance Benchmarks
+
+| Condition | TPR (%) | mAP@0.5 (%) | Latency (ms) |
+| :--- | :---: | :---: | :---: |
+| **Daytime, Clear** | 98.2 | 91.3 | 38 |
+| **Night, Dry Road** | 95.6 | 88.7 | 42 |
+| **Night, Rain** | 89.4 | 83.1 | 51 |
+| *Baseline (Monocular, Night)* | *21.4* | *N/A* | *N/A* |
+
+> 📄 Sources: [MDPI Vehicles 2025](https://doi.org/10.3390/vehicles7040149) 
 
 ---
 
@@ -47,16 +57,25 @@ My primary research addresses the "classification gap" for road users in non-upr
 
 ### 🌌 Astrophysics & Galactic Evolution
 - **Formation and Evolution of Galaxies: Starlight Synthesis Algorithm** | *Lead Author* | [IJAA](https://www.scirp.org/journal/paperinformation?paperid=115643) · DOI: [10.4236/ijaa.2022.121005](https://doi.org/10.4236/ijaa.2022.121005)
-- **Unveiling Galactic Assembly: Chemo-Kinematic Insights from Stellar Absorptions** | *Lead Author* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5343246)
-- **Galactic Paleontology: Reconstructing Accretion Events with Chemo-Dynamical Signatures** | *Lead Author* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5427474)
+- **Unveiling Galactic Assembly: Chemo-Kinematic Insights from Stellar Absorptions** | *Lead Author* | [SSRN](https://dx.doi.org/10.2139/ssrn.5343246)
+- **Galactic Paleontology: Reconstructing Accretion Events with Chemo-Dynamical Signatures** | *Lead Author* | [SSRN](http://dx.doi.org/10.2139/ssrn.5427474)
+- **Galactic Archaeology: A Chemo-Kinematic Review of the Milky Way's Hierarchical Assembly** | *Lead Author* | [SSRN](http://dx.doi.org/10.2139/ssrn.5379476)
 
 ### 🛰 Geospatial Intelligence & UAV
 - **Global Homeland Security Satellite Imagery Market: Strategic Outlook and Growth Trajectories** | *Lead Author* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5364419)
 - **SATCOM, The Future UAV Communication Link** | *Lead Author* | [SSRN](https://ssrn.com/abstract=4789490)
 
 ### 🚗 Automotive Technology & AI Safety
-- **From Post-Mortem to Prevention: Redefining "Invisible" Pedestrians through ISO 26262 and Multi-Modal AI** | *Lead Author* | [SSRN](https://doi.org/10.2139/ssrn.6305618) *(January 2026)*
-- **Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans** | *Lead Author* | [MDPI Vehicles](https://www.mdpi.com/2624-8921/7/4/149) · DOI: [10.3390/vehicles7040149](https://doi.org/10.3390/vehicles7040149)
+
+> 🔗 This body of work forms a unified 4-paper research program on AI-driven road safety:
+
+| # | Title | Venue | Role |
+| :---: | :--- | :---: | :---: |
+| 1 | [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) | MDPI Vehicles | Technical Foundation | *Lead Author*| *Co Author - Masahito Hitosugi* 
+| 2 | [From Post-Mortem to Prevention: Redefining "Invisible" Pedestrians through ISO 26262 and Multi-Modal AI](https://doi.org/10.2139/ssrn.6305618) | SSRN | Problem Framing |
+| 3 | [Integrated Safety Architectures: Leveraging Multi-Modal AI and ISO 26262 to Protect Vulnerable Road Users](https://ssrn.com/author=nick-barua) | SSRN | System Architecture |
+| 4 | Sudden Incapacitation or Death at the Wheel: Unravelling the Predictors of Catastrophic Multi-Vehicle Collisions | SSRN *(pending)* | Epidemiological Evidence |
+
 - **Mechanisms, Modelling, and Machine Learning-Based Prediction of Lithium-Ion Battery Degradation in EVs** | *Lead Author* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375081)
 - **Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation with CNN and RNN Models** | *Co-Author* | [SAI](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=7&Code=IJACSA&SerialNo=4)
 
@@ -81,7 +100,7 @@ My primary research addresses the "classification gap" for road users in non-upr
 
 | Year | Award | Presented By |
 | :---: | :--- | :--- |
-| 2026 | [Top 10 Visionary Entrepreneurs Shaping the Future](https://www.msn.com/en-us/money/smallbusiness/top-10-visionary-entrepreneurs-shaping-the-future-in-2026/ar-AA1VxyWp) | MSN |
+| 2026 | [Top 10 Visionary Entrepreneurs Shaping the Future](https://www.msn.com/en-us/money/smallbusiness/top-10-visionary-entrepreneurs-shaping-the-future-in-2026/ar-AA1VxyWp) | CEO Monthly |
 | 2025 | [Global CEO Excellence Awards — Winner](https://www.ceo-review.com/hall-of-fame/global-ceo-excellence-awards-2025/) | CEO Monthly |
 | 2022 | [Most Innovative Executive / CEO of the Year — Japan](https://apacinsider.digital/winners/nick-barua/) | APAC Insider |
 
@@ -95,7 +114,6 @@ My primary research addresses the "classification gap" for road users in non-upr
 | 🎓 Google Scholar | [Nick Barua](https://scholar.google.com/citations?user=yZFfQ5gAAAAJ) |
 | 🔬 ResearchGate | [Nick-Barua](https://www.researchgate.net/profile/Nick-Barua) |
 | 🗾 Researchmap Japan | [nickbarua](https://researchmap.jp/nickbarua) |
-| 🎬 IMDb | [nm14218635](https://www.imdb.com/name/nm14218635/) |
 | 💼 LinkedIn | [nickbarua](https://www.linkedin.com/in/nickbarua) |
 | 🏢 AN Holdings | [anholdings.co](https://anholdings.co/) |
 
