@@ -51,6 +51,19 @@ My primary research addresses the "classification gap" for road users in non-upr
 
 > 📄 Sources: [MDPI Vehicles 2025](https://doi.org/10.3390/vehicles7040149) 
 
+## 🧩 Systemic Architecture & Research Synergy
+
+My research portfolio is unified by **High-Fidelity Signal Reconstruction** and **Dynamic Risk Assessment** across three distinct domains. I specialize in extracting actionable truth from high-entropy, noisy environments—from the galactic scale to the urban street level.
+
+### 🔄 The Cross-Domain Bridge
+| Methodology | Origin (Astrophysics) | Application (Automotive/UAV) | Unified Logic |
+| :--- | :--- | :--- | :--- |
+| **Kinematic Tomography** | **SSA Algorithm:** Deconvolving stellar populations in the Milky Way. | **AFODS Pipeline:** Deconvolving human pose sequences to predict falls. | **Phase-Space Analysis** |
+| **Risk Quantification** | **Stellar Dynamics:** Mapping velocity dispersion & chemical gaps. | **RASA Model:** $R(t) = \alpha \cdot U_{s} + \beta \cdot L_{c}$ for BVLOS safety. | **Probabilistic Reliability** |
+| **Functional Safety** | **Data Integrity:** Managing Gaia DR3/APOGEE cross-matching. | **ISO 26262:** ASIL-D frameworks for "invisible" pedestrians. | **Systems Engineering** |
+
+> **Research Impact:** By transposing the mathematical rigor of **Galactic Archaeology** (identifying patterns in 468,000 stars) into **Multi-Modal AI**, I have optimized the True Positive Rate (TPR) for fallen pedestrian detection to **98.2%**, bridging the gap between clinical "Post-Mortem" analysis and real-time "Prevention."
+
 ---
 
 ## 📚 Selected Publications
@@ -62,8 +75,8 @@ My primary research addresses the "classification gap" for road users in non-upr
 - **Galactic Archaeology: A Chemo-Kinematic Review of the Milky Way's Hierarchical Assembly** | *Lead Author* | [SSRN](http://dx.doi.org/10.2139/ssrn.5379476)
 
 ### 🛰 Geospatial Intelligence & UAV
-- **Global Homeland Security Satellite Imagery Market: Strategic Outlook and Growth Trajectories** | *Lead Author* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5364419)
-- **SATCOM, The Future UAV Communication Link** | *Lead Author* | [SSRN](https://ssrn.com/abstract=4789490)
+- **Global Homeland Security Satellite Imagery Market: Strategic Outlook and Growth Trajectories** | *Lead Author* | [SSRN](http://dx.doi.org/10.2139/ssrn.5364419)
+- **SATCOM, The Future UAV Communication Link** | *Lead Author* | [SSRN](http://dx.doi.org/10.2139/ssrn.4059066)
 
 ### 🚗 Automotive Technology & AI Safety
 
@@ -72,11 +85,11 @@ My primary research addresses the "classification gap" for road users in non-upr
 | # | Title | Venue | Role |
 | :---: | :--- | :---: | :---: |
 | 1 | [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) | MDPI Vehicles | Technical Foundation | *Lead Author*| *Co Author - Masahito Hitosugi* 
-| 2 | [From Post-Mortem to Prevention: Redefining "Invisible" Pedestrians through ISO 26262 and Multi-Modal AI](https://doi.org/10.2139/ssrn.6305618) | SSRN | Problem Framing |
-| 3 | [Integrated Safety Architectures: Leveraging Multi-Modal AI and ISO 26262 to Protect Vulnerable Road Users](https://ssrn.com/author=nick-barua) | SSRN | System Architecture |
-| 4 | Sudden Incapacitation or Death at the Wheel: Unravelling the Predictors of Catastrophic Multi-Vehicle Collisions | SSRN *(pending)* | Epidemiological Evidence |
+| 2 | [From Post-Mortem to Prevention: Redefining "Invisible" Pedestrians through ISO 26262 and Multi-Modal AI](https://doi.org/10.2139/ssrn.6305618) |SSRN| Problem Framing |
+| 3 | [Integrated Safety Architectures: Leveraging Multi-Modal AI and ISO 26262 to Protect Vulnerable Road Users](http://dx.doi.org/10.2139/ssrn.6112086) |SSRN| System Architecture |
+| 4 | [Sudden Incapacitation or Death at the Wheel](http://dx.doi.org/10.2139/ssrn.6305478) |SSRN| Clinical HARA for AFODS |
 
-- **Mechanisms, Modelling, and Machine Learning-Based Prediction of Lithium-Ion Battery Degradation in EVs** | *Lead Author* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375081)
+- **Mechanisms, Modelling, and Machine Learning-Based Prediction of Lithium-Ion Battery Degradation in EVs** | *Lead Author* | [SSRN](http://dx.doi.org/10.2139/ssrn.5375081)
 - **Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation with CNN and RNN Models** | *Co-Author* | [SAI](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=7&Code=IJACSA&SerialNo=4)
 
 ### 🏥 Telemedicine & Healthcare
