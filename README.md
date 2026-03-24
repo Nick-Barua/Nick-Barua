@@ -40,6 +40,9 @@ My primary research addresses the "classification gap" for road users in non-upr
 - **Explainable AI (XAI):** Integrated **SHAP** values provide a forensic audit trail admissible in legal and post-incident reconstruction proceedings.
 - **Acoustic Verification:** **MFCC-based classification** distinguishes fall acoustic signatures from road noise, reducing false positives.
 
+
+---
+
 ### 📊 Performance Benchmarks
 
 | Condition | TPR (%) | mAP@0.5 (%) | Latency (ms) |
@@ -51,18 +54,23 @@ My primary research addresses the "classification gap" for road users in non-upr
 
 > 📄 Sources: [MDPI Vehicles 2025](https://doi.org/10.3390/vehicles7040149) 
 
+
+---
+
 ## 🧩 Systemic Architecture & Research Synergy
 
-My research portfolio is unified by **High-Fidelity Signal Reconstruction** and **Dynamic Risk Assessment** across three distinct domains. I specialize in extracting actionable truth from high-entropy, noisy environments—from the galactic scale to the urban street level.
+My research portfolio is unified by **High-Fidelity Signal Reconstruction** and **Dynamic Risk Assessment**. I specialize in extracting actionable truth from high-entropy environments—from the galactic scale to urban safety.
 
-### 🔄 The Cross-Domain Bridge
-| Methodology | Origin (Astrophysics) | Application (Automotive/UAV) | Unified Logic |
-| :--- | :--- | :--- | :--- |
-| **Kinematic Tomography** | **SSA Algorithm:** Deconvolving stellar populations in the Milky Way. | **AFODS Pipeline:** Deconvolving human pose sequences to predict falls. | **Phase-Space Analysis** |
-| **Risk Quantification** | **Stellar Dynamics:** Mapping velocity dispersion & chemical gaps. | **RASA Model:** $R(t) = \alpha \cdot U_{s} + \beta \cdot L_{c}$ for BVLOS safety. | **Probabilistic Reliability** |
-| **Functional Safety** | **Data Integrity:** Managing Gaia DR3/APOGEE cross-matching. | **ISO 26262:** ASIL-D frameworks for "invisible" pedestrians. | **Systems Engineering** |
+### 🔭 The Kinematic Safety Framework (KSF)
+This flagship framework transposes the mathematical rigor of **Galactic Archaeology** into a proactive engine for terrestrial and aerial safety.
 
-> **Research Impact:** By transposing the mathematical rigor of **Galactic Archaeology** (identifying patterns in 468,000 stars) into **Multi-Modal AI**, I have optimized the True Positive Rate (TPR) for fallen pedestrian detection to **98.2%**, bridging the gap between clinical "Post-Mortem" analysis and real-time "Prevention."
+* [cite_start]**Logic:** Utilizes **Phase-Space Analysis** $(x, v)$ to detect human falls as a kinematic deconvolution[cite: 13, 15, 47, 49].
+* [cite_start]**Performance:** Achieves a **98.2% True Positive Rate (TPR)** in high-entropy environments[cite: 18, 53].
+* [cite_start]**Prediction:** Generates alerts **0.3s–0.8s** before ground contact occurs[cite: 16, 50].
+* [cite_start]**Risk Model:** Proprietary **RASA** model: $R(t) = \alpha \cdot U_s(t) + \beta \cdot L_c(t)$.
+
+> [!TIP]
+> **Explore the Documentation:** > 📖 **[Technical Wiki](https://github.com/Nick-Barua/Kinematic-Safety-Framework/wiki)** | 📄 **[Citable Whitepaper (Zenodo DOI)](https://doi.org/10.5281/zenodo.XXXXXXX)**
 
 ---
 
