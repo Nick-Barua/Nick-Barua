@@ -109,6 +109,7 @@ This flagship framework transposes the mathematical rigor of **Galactic Archaeol
 
 | Category | Repository | Description |
 | :--- | :--- | :--- |
+| **Systems Theory & Defense** | [**Estimator-Collapse-Theory-ECT-Framework**](https://github.com/Nick-Barua/Estimator-Collapse-Theory-ECT-Framework) | **Formal analytical framework for Estimator Collapse Theory (ECT) and SMK validation — *(The Journal of Navigation, 2026)*** |
 | **AI & Safety** | [From-Post-Mortem-to-Prevention-AFODS](https://github.com/Nick-Barua/From-Post-Mortem-to-Prevention-AFODS) | ISO 26262-aligned AFODS framework — 98.2% TPR for fallen pedestrian detection *(Jan 2026)* |
 | **AI & Safety** | [sensor-fusion-fall-detection](https://github.com/Nick-Barua/sensor-fusion-fall-detection) | Multi-modal sensor fusion for human fall detection *(MDPI Vehicles, 2025)* |
 | **AI & Safety** | [AFODS-Operational-Sequence](https://github.com/Nick-Barua/AFODS-Operational-Sequence) | Five-stage data processing pipeline for AFODS architecture |
