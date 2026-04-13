@@ -132,16 +132,18 @@ This flagship framework transposes the mathematical rigor of **Galactic Archaeol
 
 | Platform | Link |
 | :--- | :--- |
-| 🟢 ORCID | [0000-0003-4641-0112](https://orcid.org/0000-0003-4641-0112) |
-| 🆔 ISNI | [0000 0005 3020 7165](https://isni.org/isni/0000000530207165) |
+| 🟢 ORCID | [cite_start][0000-0003-4641-0112](https://orcid.org/0000-0003-4641-0112) [cite: 873] |
+| 🆔 ISNI | [cite_start][0000 0005 3020 7165](https://isni.org/isni/0000000530207165) [cite: 873] |
 | 📄 Scopus | [59245027800](https://www.scopus.com/authid/detail.uri?authorId=59245027800) |
-| 🎓 Google Scholar | [Nick Barua](https://scholar.google.com/citations?user=yZFfQ5gAAAAJ) |
+| 🎓 Google Scholar | [Nick Barua](https://scholar.google.com/citations?user=hbQtWFwAAAAJ) |
 | 🔬 ResearchGate | [Nick-Barua](https://www.researchgate.net/profile/Nick-Barua) |
-| 📦 Zenodo | [Nick Barua Archive](https://zenodo.org/me/uploads) |
-| 📚 Wikidata | [Nick Barua (QID)](https://www.wikidata.org/wiki/Q12345678) |
-| 🗾 Researchmap Japan | [nickbarua](https://researchmap.jp/nickbarua) |
+| 📦 Zenodo | [cite_start][Nick Barua Archive](https://zenodo.org/me/uploads) [cite: 1102, 1507] |
+| 🗾 Researchmap Japan | [Nick-Barua](https://researchmap.jp/Nick-Barua) |
+| 🏢 J-GLOBAL | [202201012730383494](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202201012730383494) |
 | 💼 LinkedIn | [nickbarua](https://www.linkedin.com/in/nickbarua) |
-| 🏢 AN Holdings | [anholdings.co](https://anholdings.co/) |
+| 🏢 AN Holdings | [cite_start][anholdings.co](https://anholdings.co/) [cite: 875, 1178] |
+
+**Research Clusters:** `Forensic Biomechanics` • `Galactic Archaeology` • `AI Safety (ISO 26262/SOTIF)` • `Satellite Intelligence`
 ---
 
 *"Advancing humanity through the convergence of space-intelligence and terrestrial safety."*
