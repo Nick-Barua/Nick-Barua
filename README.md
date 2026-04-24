@@ -35,8 +35,8 @@ My current work addresses the detection of "invisible" pedestrians—individuals
 - **Patent Portfolio:** Primary Inventor for AFODS technology (**JP Patent App No. 2025-167440**).
 - **Multi-Modal Redundancy:** Integration of **LWIR Thermal**, **NIR Stereo**, and **Ultrasonic** sensors for all-weather reliability.
 - **Safety Compliance:** Mapping fallen-pedestrian hazards to **ASIL C-D** safety goals under ISO 26262.
-- **AI Architecture:** Implementation of **YOLOv7-Tiny** and **RNN/Kalman filters** for predictive kinematics, generating alerts **0.3–0.8s** before ground contact.
 - **Explainable AI (XAI):** Integration of **SHAP** values to support forensic interpretation and legal reconstruction.
+- **Data Integrity:** Primary dataset archived via Zenodo (**DOI: 10.5281/zenodo.17460755**).
 
 ### 📊 Performance Benchmarks (Demonstrated)
 
@@ -45,7 +45,6 @@ My current work addresses the detection of "invisible" pedestrians—individuals
 | **Daytime, Clear** | 98.2 | 91.3 | 38 |
 | **Night, Dry Road** | 95.6 | 88.7 | 42 |
 | **Night, Rain** | 89.4 | 83.1 | 51 |
-| *Baseline (Monocular, Night)* | *21.4* | *N/A* | *N/A* |
 
 ---
 
@@ -56,7 +55,6 @@ The KSF transposes mathematical rigor from **Galactic Archaeology** into a proac
 * **Logic:** Employs **Phase-Space Analysis** $(x, v)$ to identify human falls as a kinematic deconvolution.
 * **Risk Model:** Utilizes the proposed **RASA** model (Risk-Aware Safety Architecture): 
 $$R(t) = \alpha \cdot U_s(t) + \beta \cdot L_c(t)$$
-* **Latency Modeling:** Developed a stochastic jitter framework for **SATCOM-enabled UAVs** to quantify probabilities of safety breaches in BLOS operations.
 
 ---
 
@@ -67,32 +65,11 @@ $$R(t) = \alpha \cdot U_s(t) + \beta \cdot L_c(t)$$
 - **Formation and Evolution of Galaxies: Starlight Synthesis Algorithm** | *IJAA* | [doi: 10.4236/ijaa.2022.121005](https://doi.org/10.4236/ijaa.2022.121005)
 - **Enhancing Audio Classification Through MFCC Feature Extraction** | *IJACSA* | [View Paper](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=7&Code=IJACSA&SerialNo=4)
 
-### 📄 2026 Working Papers & Preprints (Preprints.org)
+### 📄 2026 Research Roadmap (Preprints.org)
 - **The Invisible Victims of the Road:** Why ADAS Cannot See Prostrate Pedestrians | [doi: 10.20944/preprints202604.0850.v1](https://doi.org/10.20944/preprints202604.0850.v1)
 - **Latency-Constrained UAV Operations over SATCOM:** Stochastic Jitter Modelling | [doi: 10.20944/preprints202604.1322.v1](https://doi.org/10.20944/preprints202604.1322.v1)
 - **Risk-Aware AI Architecture for BVLOS UAV Safety:** RASA & ISO 26262 | [doi: 10.20944/preprints202604.0858.v1](https://doi.org/10.20944/preprints202604.0858.v1)
 - **The Intelligence Multiplier:** Orchestrating the Future of Sovereign GEOINT (2025–2034) | [doi: 10.20944/preprints202604.1163.v1](https://doi.org/10.20944/preprints202604.1163.v1)
-
----
-
-## 📂 Technical Repositories
-
-| Repository | Focus |
-| :--- | :--- |
-| [Estimator-Collapse-Theory](https://github.com/Nick-Barua/Estimator-Collapse-Theory-ECT-Framework) | Analytical framework for SMK validation (2026). |
-| [AFODS-Framework](https://github.com/Nick-Barua/From-Post-Mortem-to-Prevention-AFODS) | ISO 26262-aligned pedestrian detection. |
-| [Sensor-Fusion-Fall](https://github.com/Nick-Barua/sensor-fusion-fall-detection) | Multi-modal fusion logic for human fall detection. |
-| [Starlight-Synthesis](https://github.com/Nick-Barua/starlight-synthesis-algorithm) | Galactic velocity dispersion and spectral synthesis. |
-
----
-
-## 🏆 Awards & Recognition
-
-| Year | Award | Presented By |
-| :---: | :--- | :--- |
-| 2026 | [Top 10 Visionary Entrepreneurs Shaping the Future](https://www.msn.com/en-us/money/smallbusiness/top-10-visionary-entrepreneurs-shaping-the-future-in-2026/ar-AA1VxyWp) | CEO Monthly |
-| 2025 | [Global CEO Excellence Awards — Winner](https://www.ceo-review.com/hall-of-fame/global-ceo-excellence-awards-2025/) | CEO Monthly |
-| 2022 | [Most Innovative Executive / CEO of the Year — Japan](https://apacinsider.digital/winners/nick-barua/) | APAC Insider |
 
 ---
 
@@ -101,12 +78,11 @@ $$R(t) = \alpha \cdot U_s(t) + \beta \cdot L_c(t)$$
 | Platform | Link / ID |
 | :--- | :--- |
 | 🟢 **ORCID** | [0000-0003-4641-0112](https://orcid.org/0000-0003-4641-0112) |
-| 📄 **Scopus** | [59245027800](https://www.scopus.com/authid/detail.uri?authorId=59245027800) |
-| 🎓 **Google Scholar** | [Nick Barua](https://scholar.google.com/citations?user=hbQtWFwAAAAJ) |
-| 🔬 **ResearchGate** | [Nick-Barua](https://www.researchgate.net/profile/Nick-Barua) |
-| 🗾 **Researchmap Japan** | [Nick-Barua](https://researchmap.jp/Nick-Barua) |
-| 🏢 **J-GLOBAL ID** | [202201012730383494](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202201012730383494) |
+| 🗾 **researchmap (Japan)** | [Nick-Barua](https://researchmap.jp/Nick-Barua?lang=en) |
+| 🏢 **MEXT KAKEN (Researcher No.)** | **80970491** |
+| 📄 **Scopus Author ID** | [59245027800](https://www.scopus.com/authid/detail.uri?authorId=59245027800) |
+| 🎓 **Google Scholar** | [Nick Barua Profile](https://scholar.google.com/citations?user=hbQtWFwAAAAJ) |
 | 🆔 **ISNI** | [0000 0005 3020 7165](https://isni.org/isni/0000000530207165) |
-| 💼 **LinkedIn** | [nickbarua](https://www.linkedin.com/in/nickbarua) |
+| 🏢 **J-GLOBAL ID** | [202201012730383494](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202201012730383494) |
 
 **Research Clusters:** `Forensic Biomechanics` • `Galactic Archaeology` • `AI Safety (ISO 26262/SOTIF)` • `Satellite Intelligence`
