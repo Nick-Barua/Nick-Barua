@@ -26,8 +26,6 @@ $$R(t) = \alpha \cdot U_s(t) + \beta \cdot L_c(t)$$
 
 * **Galactic Archaeology: A Chemo-Kinematic Review** | *Venue:* **SSRN / ResearchGate** An analysis of the Milky Way’s hierarchical assembly applying the mathematical principles of phase-space density to interpret stellar absorption line profiles and **Gaia DR3** astrometry.
 
-* **Chemo-kinematic Tomography of the Milky Way** | *Working Paper (2026)* Applying **Gaussian Mixture Modelling (GMM)** to deconvolve the chemical and kinematic signatures of the Galactic halo, identifying fossil substructures from ancient accretion events.
-
 ---
 
 ## 🚗 Applied Research: AFODS & ISO 26262
@@ -37,11 +35,14 @@ The **Advanced Falling Object Detection System (AFODS)** represents the practica
 * **Patent Portfolio:** Patent application (JP 2025-167440), primary inventor.
 * **Core Methodology:** Fusing **LWIR Thermal**, **NIR Stereo**, and **Ultrasonic** sensors to address the classification gap in current ADAS.
 * **Safety Standards:** Alignment with **ISO 26262 / SOTIF**, targeting **ASIL C–D** safety goals.
-* **Explainable AI:** Integration of **SHAP** values to support forensic interpretation and post-incident reconstruction.
 
-### 📄 Working Papers & Preprints (2025–2026)
+### 📚 Peer-Reviewed Journal Articles
 - **Advanced Multi-Modal Sensor Fusion for Detecting Falling Humans** | *MDPI Vehicles* (2025) | [doi: 10.3390/vehicles7040149](https://doi.org/10.3390/vehicles7040149)
+- **Enhancing Audio Classification Through MFCC Feature Extraction** | *IJACSA* (2024) | [Link](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=7&Code=IJACSA&SerialNo=4)
+
+### 📄 2026 Working Papers & Preprints
 - **The Invisible Victims of the Road:** Why ADAS fails recumbent pedestrians | [Preprint 0850.v1](https://doi.org/10.20944/preprints202604.0850.v1)
+- **Latency-Constrained UAV Operations over SATCOM:** Stochastic Jitter Modelling | [Preprint 1322.v1](https://doi.org/10.20944/preprints202604.1322.v1)
 - **Risk-Aware AI Architecture for BVLOS Safety** | [Preprint 0858.v1](https://doi.org/10.20944/preprints202604.0858.v1)
 - **Sudden Incapacitation at the Wheel:** Clinical HARA for AFODS | [SSRN Profile](https://ssrn.com/author=nick-barua)
 
