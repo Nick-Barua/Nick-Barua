@@ -28,22 +28,44 @@ My programme bridges **Forensic Biomechanics**, **Multi-Modal Sensor Fusion**, a
 | | |
 |---|---|
 | 🟢 Peer-reviewed articles | 6 |
-| 🔄 Under review | 1 |
+| 🔄 Under review | 4 |
 | 📄 Preprints & working papers | 15+ |
 | 🔒 Patent applications | 1 |
 | 🔬 Research domains | Automotive Safety · Forensic Biomechanics · Geospatial Intelligence · Astrophysics |
 
 ---
 
-## ⭐ Featured
+## 🔬 Research Fields
 
-| | |
-|---|---|
-| 📄 Published AI perception paper | [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road]( https://doi.org/10.3390/vehicles8060136) — *MDPI Vehicles*, 2026 |
-| 📄 Published sensor fusion paper | [Physics-Grounded Sensor Fusion for Pedestrian Impact Kinematic Reconstruction](https://doi.org/10.3390/s26113387) — *MDPI Sensors*, 2026 |
-| 📄 Foundation paper | [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) — *MDPI Vehicles*, 2025 |
-| 📂 Core repository | [From-Post-Mortem-to-Prevention-AFODS](https://github.com/Nick-Barua/From-Post-Mortem-to-Prevention-AFODS) |
-| 🔒 Patent | 特願2025-167440 — Multi-Modal Sensor Fusion System *(registration in progress)* |
+- Artificial Intelligence (AI)
+- Machine Learning & Deep Learning
+- Computer Vision
+- Multi-Modal Sensor Fusion
+- Autonomous Vehicle Safety
+- Traffic Accident Reconstruction
+- Injury Biomechanics
+- Forensic Medicine
+- Public Health & Injury Prevention
+- Human-Centered Safety Systems
+
+## 📚 Publications
+
+### Peer-Reviewed Journal Articles
+
+| Title | Area | Journal | Year | Role | Status |
+|---|---|---|---|---|---|
+| [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis](https://doi.org/10.3390/vehicles8060136) | Autonomous Vehicle Safety, AI | *MDPI Vehicles* 8(6), 136 | 2026 | **First Author** | ✅ Published |
+| [A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty](https://doi.org/10.3390/s26113387) | Sensor Fusion, Biomechanics | *MDPI Sensors* 26(11), 3387 | 2026 | **First Author** | ✅ Published |
+| [Causes of Severe Injuries in Wheelchair User Motor Vehicle Passengers](https://www.jstage.jst.go.jp/article/ehpm/31/0/31_26-00037/_article/-char/ja/) | Public Health, Injury Prevention | *Environmental Health and Preventive Medicine* 31:36 | 2026 | Co-Author | ✅ Published |
+| [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) | Computer Vision, Sensor Fusion | *MDPI Vehicles* 7(4), 149 | 2025 | **First Author** | ✅ Published |
+| [Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation with CNN and RNN Models](https://doi.org/10.14569/IJACSA.2024.0150704) | Audio AI, Deep Learning | *International Journal of Advanced Computer Science and Applications (IJACSA)* 15(7) | 2024 | Co-Author | ✅ Published |
+| [Formation and Evolution of Galaxies: Starlight Synthesis Algorithm](https://doi.org/10.4236/ijaa.2022.121005) | Astrophysics, Computational Astronomy | *International Journal of Astronomy and Astrophysics* 12(1), 68–93 | 2022 | **Sole Author** | ✅ Published |
+
+## 🔒 Intellectual Property
+
+| Type | Details | Status |
+|---|---|---|
+| Japanese Patent Application | 特願2025-167440 — Multi-Modal Sensor Fusion System | Registration in Progress |
 
 ---
 
