@@ -39,7 +39,7 @@ My programme bridges **Forensic Biomechanics**, **Multi-Modal Sensor Fusion**, a
 
 | | |
 |---|---|
-| 📄 Latest journal article | [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road](https://www.mdpi.com/journal/vehicles) — *MDPI Vehicles*, 2026 *(under review)* |
+| 📄 Published AI perception paper | [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road]( https://doi.org/10.3390/vehicles8060136) — *MDPI Vehicles*, 2026 |
 | 📄 Published sensor fusion paper | [Physics-Grounded Sensor Fusion for Pedestrian Impact Kinematic Reconstruction](https://doi.org/10.3390/s26113387) — *MDPI Sensors*, 2026 |
 | 📄 Foundation paper | [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) — *MDPI Vehicles*, 2025 |
 | 📂 Core repository | [From-Post-Mortem-to-Prevention-AFODS](https://github.com/Nick-Barua/From-Post-Mortem-to-Prevention-AFODS) |
