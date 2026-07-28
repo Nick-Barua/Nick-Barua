@@ -103,7 +103,7 @@ My programme bridges **Forensic Biomechanics**, **Multi-Modal Sensor Fusion**, a
 
 | Title | Journal | Year | Role | Status |
 |---|---|---|---|---|
-| [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis](https://www.mdpi.com/journal/vehicles) | *MDPI Vehicles* | 2026 | **Lead** | 🔄 Under Review |
+| [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis](https://www.mdpi.com/journal/vehicles) | *MDPI Vehicles* | 2026 | **Lead** | ✅ Published |
 | [A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty](https://doi.org/10.3390/s26113387) | *MDPI Sensors* 26(11), 3387 | 2026 | **Lead** | ✅ Published |
 | [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) | *MDPI Vehicles* 7(4), 149 | 2025 | **Lead** | ✅ Published |
 | [Causes of Severe Injuries in Wheelchair User Motor Vehicle Passengers](https://www.jstage.jst.go.jp/article/ehpm/31/0/31_26-00037/_article/-char/ja/) | *Environmental Health and Preventive Medicine* 31:36 | 2026 | Co-Author | ✅ Published |
