@@ -22,13 +22,29 @@ My programme bridges **Forensic Biomechanics**, **Multi-Modal Sensor Fusion**, a
 > *Current research focuses on automotive safety, forensic biomechanics, and AI-based injury prevention; earlier work includes astrophysics and galactic evolution.*
 
 ---
+## 🌟 Featured Publication
+
+### Battery State-of-Health as a Functional Safety Variable
+
+[![Scientific Reports](https://img.shields.io/badge/Scientific_Reports-2026-1F4E79?style=for-the-badge)](https://doi.org/10.1038/s41598-026-65007-4)
+[![Open Access](https://img.shields.io/badge/Open_Access-Article-2E8B57?style=for-the-badge)](https://doi.org/10.1038/s41598-026-65007-4)
+
+**Battery State-of-Health as a Functional Safety Variable: an ISO 26262-Aligned AI Framework for Electric Vehicle ADAS Power Integrity**
+
+This work treats battery State-of-Health as a live functional-safety variable rather than only a maintenance indicator. It presents a five-layer framework connecting SoH estimation, power-margin monitoring, safety decision logic, vehicle response, and lifecycle management.
+
+📖 **Published in:** *Scientific Reports*  
+🔗 **Article:** https://doi.org/10.1038/s41598-026-65007-4  
+👤 **Role:** First Author
+
+---
 
 ## 📊 Research Snapshot
 
 | | |
 |---|---|
-| 🟢 Peer-reviewed articles | 6 |
-| 🔄 Under review | 4 |
+| 🟢 Peer-reviewed articles | 7 |
+| 🔄 Under review | 9 |
 | 📄 Preprints & working papers | 15+ |
 | 🔒 Patent applications | 1 |
 | 🔬 Research domains | Automotive Safety · Forensic Biomechanics · Geospatial Intelligence · Astrophysics |
@@ -54,11 +70,12 @@ My programme bridges **Forensic Biomechanics**, **Multi-Modal Sensor Fusion**, a
 
 | Title | Area | Journal | Year | Role | Status |
 |---|---|---|---|---|---|
-| [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis](https://doi.org/10.3390/vehicles8060136) | Autonomous Vehicle Safety, AI | *MDPI Vehicles* 8(6), 136 | 2026 | **First Author** | ✅ Published |
-| [A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty](https://doi.org/10.3390/s26113387) | Sensor Fusion, Biomechanics | *MDPI Sensors* 26(11), 3387 | 2026 | **First Author** | ✅ Published |
+| [Battery State-of-Health as a Functional Safety Variable: an ISO 26262-Aligned AI Framework for Electric Vehicle ADAS Power Integrity](https://doi.org/10.1038/s41598-026-65007-4) | EV Battery Safety, ADAS, Functional Safety | *Scientific Reports* | 2026 | **First Author** | ✅ Published |
+| [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis](https://doi.org/10.3390/vehicles8060136) | Autonomous Vehicle Safety, AI | *Vehicles* 8(6), 136 | 2026 | **First Author** | ✅ Published |
+| [A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty](https://doi.org/10.3390/s26113387) | Sensor Fusion, Biomechanics | *Sensors* 26(11), 3387 | 2026 | **First Author** | ✅ Published |
 | [Causes of Severe Injuries in Wheelchair User Motor Vehicle Passengers](https://www.jstage.jst.go.jp/article/ehpm/31/0/31_26-00037/_article/-char/ja/) | Public Health, Injury Prevention | *Environmental Health and Preventive Medicine* 31:36 | 2026 | Co-Author | ✅ Published |
-| [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) | Computer Vision, Sensor Fusion | *MDPI Vehicles* 7(4), 149 | 2025 | **First Author** | ✅ Published |
-| [Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation with CNN and RNN Models](https://doi.org/10.14569/IJACSA.2024.0150704) | Audio AI, Deep Learning | *International Journal of Advanced Computer Science and Applications (IJACSA)* 15(7) | 2024 | Co-Author | ✅ Published |
+| [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) | Computer Vision, Sensor Fusion | *Vehicles* 7(4), 149 | 2025 | **First Author** | ✅ Published |
+| [Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation with CNN and RNN Models](https://doi.org/10.14569/IJACSA.2024.0150704) | Audio AI, Deep Learning | *IJACSA* 15(7) | 2024 | Co-Author | ✅ Published |
 | [Formation and Evolution of Galaxies: Starlight Synthesis Algorithm](https://doi.org/10.4236/ijaa.2022.121005) | Astrophysics, Computational Astronomy | *International Journal of Astronomy and Astrophysics* 12(1), 68–93 | 2022 | **Sole Author** | ✅ Published |
 
 ## 🔒 Intellectual Property
