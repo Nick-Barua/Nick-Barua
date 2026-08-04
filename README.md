@@ -114,27 +114,6 @@ This work treats battery State-of-Health as a live functional-safety variable ra
 
 ---
 
-## 📚 Publications
-
-### Peer-Reviewed Journal Articles
-
-| Title | Journal | Year | Role | Status |
-|---|---|---|---|---|
-| [A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis](https://www.mdpi.com/journal/vehicles) | *MDPI Vehicles* | 2026 | **Lead** | ✅ Published |
-| [A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty](https://doi.org/10.3390/s26113387) | *MDPI Sensors* 26(11), 3387 | 2026 | **Lead** | ✅ Published |
-| [Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans](https://doi.org/10.3390/vehicles7040149) | *MDPI Vehicles* 7(4), 149 | 2025 | **Lead** | ✅ Published |
-| [Causes of Severe Injuries in Wheelchair User Motor Vehicle Passengers](https://www.jstage.jst.go.jp/article/ehpm/31/0/31_26-00037/_article/-char/ja/) | *Environmental Health and Preventive Medicine* 31:36 | 2026 | Co-Author | ✅ Published |
-
-<details>
-<summary>View complete publication list</summary>
-
-| Title | Journal | Year | Role | Status |
-|---|---|---|---|---|
-| [Formation and Evolution of Galaxies: Starlight Synthesis Algorithm](https://doi.org/10.4236/ijaa.2022.121005) | *IJAA* 12(1), 68–93 | 2022 | **Solo** | ✅ Published |
-| [Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=7&Code=ijacsa&SerialNo=4) | *IJACSA* 15(7), 37–53 | 2024 | Co-Author | ✅ Published |
-
-</details>
-
 ### Manuscripts in Progress
 
 | Title | Target Venue | Status |
