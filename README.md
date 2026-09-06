@@ -28,7 +28,7 @@ BSc Physics — Yale University · MSc Astrophysics — Caltech · PhD — Unive
 ---
 
 <p align="center">
-  <img src="research_overview.jpg" alt="Dr. Nick Barua Research Overview" width="100%">
+  <img src="./Nick%20Barua%20Github.png" alt="Dr. Nick Barua Research Overview" width="100%">
 </p>
 
 ---
