@@ -75,34 +75,50 @@ The central question is not only whether a model performs accurately on familiar
 
 ### 🌐 Broader Research Background
 
-Earlier and parallel research includes **geospatial intelligence, remote sensing, satellite-data analysis, computational astrophysics, stellar-population modelling, and galactic evolution**.
+Earlier and parallel research includes **geospatial intelligence, remote sensing, satellite-data analysis, hydrological forecasting, computational astrophysics, stellar-population modelling, and galactic evolution**.
 
 ---
 
 ## 🆕 Latest Publication
 
-### 🔋 Predictor Structure Modulates Validation Inflation and Cell-Transfer Reliability in Battery State-of-Health Estimation
+### 🌊 Advanced Machine Learning Techniques for Daily Streamflow Forecasting: A Case Study of the Brahmaputra River
 
-[![Batteries](https://img.shields.io/badge/Batteries-2026-2E7D32?style=for-the-badge)](https://www.mdpi.com/2313-0105/12/9/342)
-[![JCR](https://img.shields.io/badge/JCR-Q1-2E8B57?style=for-the-badge)](https://www.mdpi.com/journal/batteries)
-[![Open Access](https://img.shields.io/badge/Open_Access-Article-E67E22?style=for-the-badge)](https://www.mdpi.com/2313-0105/12/9/342)
+[**Scientific Reports**](https://www.nature.com/articles/s41598-026-69747-1) · [**DOI**](https://doi.org/10.1038/s41598-026-69747-1) · **Open Access**
 
-**Predictor Structure Modulates Validation Inflation and Cell-Transfer Reliability in Battery State-of-Health Estimation**
+**Advanced machine learning techniques for daily streamflow forecasting: a case study of the Brahmaputra River**
 
-This study examines an important limitation in machine-learning-based battery SoH estimation: **strong validation performance does not necessarily imply reliable generalisation to an unseen battery cell**.
+This study investigates **machine-learning-based daily streamflow forecasting for the Brahmaputra River**, comparing multiple modelling approaches across forecast horizons of up to 30 days.
 
-The work investigates how **predictor structure, validation strategy, and cell-to-cell transfer** influence apparent model performance and cross-cell reliability.
-
-A central implication is that battery-health models should be judged not only by their accuracy on familiar data, but also by their ability to **transfer reliably to previously unseen cells**.
+The work focuses not only on predictive performance, but also on **lead-time-dependent behaviour, temporal robustness, uncertainty, and the practical limitations of data-driven river-flow forecasting**.
 
 | | |
-|---|---|
-| 📖 **Journal** | *Batteries* |
-| 📚 **Volume / Issue** | 12(9), 342 |
-| 🏆 **Journal Ranking** | JCR Q1 — Electrochemistry |
-| 📅 **Published** | 2026 |
-| 👤 **Role** | **First Author** |
-| 🔗 **Article** | [Read the full open-access paper](https://www.mdpi.com/2313-0105/12/9/342) |
+| --- | --- |
+| 📖 **Journal** | *Scientific Reports* |
+| 📅 **Published** | 8 September 2026 |
+| 👤 **Role** | Co-Author |
+| 🔗 **Article** | [https://doi.org/10.1038/s41598-026-69747-1](https://doi.org/10.1038/s41598-026-69747-1) |
+
+---
+
+## 📰 Recently Accepted
+
+### 🚗 NUP-REPORT 1.0
+
+**NUP-REPORT 1.0: A Minimum Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**
+
+NUP-REPORT introduces a structured reporting and benchmarking framework for **non-upright pedestrian detection and pre-crash safety evaluation**.
+
+The framework addresses a key methodological challenge in this emerging research area: safety and detection results can be difficult to compare when studies use different scenario definitions, timing conventions, evaluation metrics, validation procedures, and reporting practices.
+
+NUP-REPORT provides a common basis for **reproducible reporting, transparent benchmarking, system-timing evaluation, and safety-oriented comparison across studies**, supporting more rigorous development and assessment of technologies intended to protect pedestrians in non-upright positions.
+
+| | |
+| --- | --- |
+| 📖 **Journal** | *Sensors* |
+| 📅 **Status** | **Accepted for publication** |
+| 👤 **Role** | **First & Corresponding Author** |
+| 🚗 **Research Area** | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety |
+| 🔗 **DOI** | To be added once available |
 
 ---
 
@@ -110,8 +126,7 @@ A central implication is that battery-health models should be judged not only by
 
 ### 1. Battery State-of-Health as a Functional Safety Variable
 
-[![Scientific Reports](https://img.shields.io/badge/Scientific_Reports-2026-1F4E79?style=for-the-badge)](https://doi.org/10.1038/s41598-026-65007-4)
-[![Open Access](https://img.shields.io/badge/Open_Access-Article-2E8B57?style=for-the-badge)](https://doi.org/10.1038/s41598-026-65007-4)
+[**Scientific Reports**](https://doi.org/10.1038/s41598-026-65007-4) · **Open Access**
 
 **Battery State-of-Health as a Functional Safety Variable: an ISO 26262-Aligned AI Framework for Electric Vehicle ADAS Power Integrity**
 
@@ -124,7 +139,7 @@ It presents a five-layer architecture linking:
 The framework examines how battery degradation and auxiliary electrical demand may affect the power margin available to safety-critical ADAS functions.
 
 | | |
-|---|---|
+| --- | --- |
 | 📖 **Journal** | *Scientific Reports* |
 | 📅 **Published** | 3 August 2026 |
 | 👤 **Role** | **First Author** |
@@ -136,10 +151,10 @@ The framework examines how battery degradation and auxiliary electrical demand m
 
 **A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty: Phase 1 Design and Theoretical Evaluation**
 
-This work develops a physics-grounded framework combining multimodal sensing, kinematic reconstruction, uncertainty propagation, and forensic interpretation for pedestrian-impact analysis.
+This work develops a physics-grounded framework combining **multimodal sensing, kinematic reconstruction, uncertainty propagation, and forensic interpretation** for pedestrian-impact analysis.
 
 | | |
-|---|---|
+| --- | --- |
 | 📖 **Journal** | *Sensors* 26(11), 3387 |
 | 📅 **Published** | 2026 |
 | 👤 **Role** | **First Author** |
@@ -151,12 +166,12 @@ This work develops a physics-grounded framework combining multimodal sensing, ki
 
 **A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis**
 
-This research investigates one of the difficult edge cases in automated vehicle safety: detecting pedestrians who are already lying on the road.
+This research investigates one of the difficult edge cases in automated vehicle safety: **detecting pedestrians who are already lying on the road**.
 
 The work combines multimodal sensing, AI-based detection, simulation, and injury-risk analysis to examine how improved perception could support earlier intervention.
 
 | | |
-|---|---|
+| --- | --- |
 | 📖 **Journal** | *Vehicles* 8(6), 136 |
 | 📅 **Published** | 2026 |
 | 👤 **Role** | **First Author** |
@@ -166,22 +181,23 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 ## 📊 Research Snapshot
 
-| Metric | Current Profile |
-|---|---|
-| 🟢 **Peer-reviewed journal articles** | **8** |
-| ✍️ **First- or sole-authored journal articles** | **6** |
+| **Metric** | **Current Profile** |
+| --- | --- |
+| 🟢 **Peer-reviewed journal articles** | **10** |
+| ✍️ **First- or sole-authored journal articles** | **7** |
 | 🔒 **Japanese patent applications** | **1** |
 | 🚗 **Primary research domain** | Safety-Critical Mobility Systems |
 | 🔋 **Growing research stream** | EV Battery Intelligence & SoH Reliability |
 | 🔬 **Core methods** | Multimodal AI · Sensor Fusion · Physics-Based Modelling · Machine Learning · Functional Safety |
 | 🦴 **Safety science** | Forensic Biomechanics · Injury Prevention · Accident Reconstruction |
-| 🌐 **Additional domains** | Geospatial Intelligence · Remote Sensing · Astrophysics |
+| 🌐 **Additional domains** | Geospatial Intelligence · Remote Sensing · Hydrological Forecasting · Astrophysics |
 
 ---
 
 ## 🧭 Core Research Areas
 
-### Safety-Critical Mobility
+### 🚗 Safety-Critical Mobility
+
 - Autonomous vehicle and ADAS safety
 - Detection of fallen and non-upright pedestrians
 - Vulnerable-road-user protection
@@ -189,7 +205,8 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 - Functional-safety decision systems
 - ISO 26262-aligned safety architectures
 
-### Artificial Intelligence and Sensing
+### 🤖 Artificial Intelligence and Sensing
+
 - Multimodal artificial intelligence
 - Sensor fusion
 - Computer vision
@@ -198,7 +215,8 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 - Model validation and generalisation
 - Cross-domain and cross-system transfer
 
-### Forensic Biomechanics
+### 🦴 Forensic Biomechanics
+
 - Pedestrian-impact reconstruction
 - Injury mechanisms
 - Vehicle-occupant safety
@@ -207,7 +225,8 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 - Uncertainty quantification
 - Accident reconstruction
 
-### EV Battery Intelligence
+### 🔋 EV Battery Intelligence
+
 - Battery State-of-Health estimation
 - Battery-health prediction
 - Validation inflation
@@ -216,10 +235,13 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 - EV power-integrity modelling
 - Battery-informed functional safety
 
-### Geospatial and Physical Sciences
+### 🌐 Geospatial, Hydrological and Physical Sciences
+
 - Geospatial intelligence
 - Remote sensing
 - Satellite-data analysis
+- Hydrological forecasting
+- Environmental time-series modelling
 - Computational astrophysics
 - Stellar-population modelling
 - Galactic evolution
@@ -229,7 +251,9 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ## 📚 Peer-Reviewed Journal Articles
 
 | Year | Publication | Journal | Research Area | Role |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
+| **2026** | **NUP-REPORT 1.0: A Minimum Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation** | *Sensors* — **Accepted for publication** | Non-Upright Pedestrian Safety · Benchmarking · Safety Evaluation | **First & Corresponding Author** |
+| **2026** | [**Advanced machine learning techniques for daily streamflow forecasting: a case study of the Brahmaputra River**](https://doi.org/10.1038/s41598-026-69747-1) | *Scientific Reports* | Hydrology · Streamflow Forecasting · Machine Learning | Co-Author |
 | **2026** | [**Predictor Structure Modulates Validation Inflation and Cell-Transfer Reliability in Battery State-of-Health Estimation**](https://www.mdpi.com/2313-0105/12/9/342) | *Batteries* 12(9), 342 | Battery SoH · ML Validation · Cell Transfer | **First Author** |
 | **2026** | [**Battery State-of-Health as a Functional Safety Variable: an ISO 26262-Aligned AI Framework for Electric Vehicle ADAS Power Integrity**](https://doi.org/10.1038/s41598-026-65007-4) | *Scientific Reports* | EV Battery Safety · ADAS · Functional Safety | **First Author** |
 | **2026** | [**A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis**](https://doi.org/10.3390/vehicles8060136) | *Vehicles* 8(6), 136 | Autonomous Vehicle Safety · AI | **First Author** |
@@ -239,16 +263,18 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 | **2024** | [**Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation with CNN and RNN Models**](https://doi.org/10.14569/IJACSA.2024.0150704) | *IJACSA* 15(7) | Audio AI · Deep Learning | Co-Author |
 | **2022** | [**Formation and Evolution of Galaxies: Starlight Synthesis Algorithm**](https://doi.org/10.4236/ijaa.2022.121005) | *International Journal of Astronomy and Astrophysics* 12(1), 68–93 | Computational Astrophysics | **Sole Author** |
 
+> **NUP-REPORT 1.0:** Accepted for publication in *Sensors*. DOI and final article link will be added once available.
+
 ### Complete Publication Record
 
-[![Google Scholar](https://img.shields.io/badge/View_on-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hbQtWFwAAAAJ)
+[**View on Google Scholar**](https://scholar.google.com/citations?user=hbQtWFwAAAAJ)
 
 ---
 
 ## 🔒 Intellectual Property
 
 | Type | Reference | Area | Status |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Japanese Patent Application | **特願2025-167440** | Multimodal Sensor-Fusion System | Application filed · Patent pending |
 
 ---
@@ -256,9 +282,9 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ## 📝 Current Research Programme
 
 | Programme | Research Direction | Status |
-|---|---|---|
+| --- | --- | --- |
 | **AFODS** | Multimodal detection and functional-safety response for pedestrians lying on the road | Computational and translational research |
-| **Non-Upright Pedestrian Safety** | Detection, injury prevention, forensic evidence, and system-level safety assurance | Active research programme |
+| **Non-Upright Pedestrian Safety** | Detection, injury prevention, forensic evidence, benchmarking, and system-level safety assurance | **NUP-REPORT accepted · Active research programme** |
 | **Forensic Kinematic Reconstruction** | Physics-grounded reconstruction of pedestrian impacts under uncertainty | Phase 1 framework developed |
 | **EV Battery Functional Safety** | Battery SoH, power margin, and safety-critical ADAS integrity | Peer-reviewed framework published |
 | **Battery ML Reliability** | Validation inflation, predictor structure, and cross-cell transfer | Peer-reviewed study published |
@@ -296,7 +322,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ### 🚗 Automotive Safety and AFODS
 
 | Repository | Description |
-|---|---|
+| --- | --- |
 | [**From-Post-Mortem-to-Prevention-AFODS**](https://github.com/Nick-Barua/From-Post-Mortem-to-Prevention-AFODS) | ISO 26262-aligned framework connecting forensic evidence, multimodal detection, and operational vehicle-safety decisions |
 | [**AFODS-Sensor-Fusion-Code**](https://github.com/Nick-Barua/AFODS-Sensor-Fusion-Code) | YOLOv7 and GRU model scripts supporting the AFODS research programme |
 | [**AFODS-Operational-Sequence**](https://github.com/Nick-Barua/AFODS-Operational-Sequence) | Visualisation of the AFODS data-processing and response pipeline |
@@ -305,14 +331,14 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ### 🦴 Forensic and Kinematic Reconstruction
 
 | Repository | Description |
-|---|---|
+| --- | --- |
 | [**Forensic-Kinematic-Reconstruction-2026**](https://github.com/Nick-Barua/Forensic-Kinematic-Reconstruction-2026) | Multimodal pedestrian-impact reconstruction using LiDAR, NIR, inertial sensing, and physics-grounded modelling |
 | [**Kinematic-Safety-Framework**](https://github.com/Nick-Barua/Kinematic-Safety-Framework) | Architecture connecting forensic biomechanics, uncertainty modelling, and functional safety |
 
 ### 📈 Risk Modelling and Autonomous Systems
 
 | Repository | Description |
-|---|---|
+| --- | --- |
 | [**Sudden-Incapacitation-or-Death-at-the-Wheel**](https://github.com/Nick-Barua/Sudden-Incapacitation-or-Death-at-the-Wheel) | Analysis of 1,258 incidents involving sudden driver incapacitation and severe collision risk |
 | [**Estimator-Collapse-Theory-ECT-Framework**](https://github.com/Nick-Barua/Estimator-Collapse-Theory-ECT-Framework) | Framework for analysing high-confidence estimator failure |
 | [**Latency-Constrained-UAV-Operations-over-SATCOM**](https://github.com/Nick-Barua/Latency-Constrained-UAV-Operations-over-SATCOM) | Latency-aware modelling and risk analysis for UAV operations over satellite communications |
@@ -320,7 +346,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ### 🌌 Astrophysics
 
 | Repository | Description |
-|---|---|
+| --- | --- |
 | [**Formation-and-Evolution-of-Galaxies-Starlight-Synthesis-Algorithm**](https://github.com/Nick-Barua/Formation-and-Evolution-of-Galaxies-Starlight-Synthesis-Algorithm) | Galactic velocity-dispersion and spectral-synthesis implementation supporting the 2022 *IJAA* article |
 | [**Unveiling-Galactic-Assembly-Chemo-Kinematic-Insights-from-Stellar-Absorptions**](https://github.com/Nick-Barua/Unveiling-Galactic-Assembly-Chemo-Kinematic-Insights-from-Stellar-Absorptions) | Numerical framework for studying galactic assembly through stellar absorption and chemo-kinematic information |
 
@@ -329,13 +355,14 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ## 🛠️ Research and Technical Methods
 
 | Area | Methods and Tools |
-|---|---|
+| --- | --- |
 | **Artificial Intelligence** | Machine Learning · Deep Learning · Computer Vision · Multimodal Fusion |
 | **Trustworthy ML** | Validation Design · Generalisation · Transfer Reliability · Uncertainty Analysis |
 | **Safety Engineering** | ISO 26262 · Risk Modelling · Safety Decision Logic · Safety Architectures |
 | **Biomechanics** | Impact Reconstruction · Injury Mechanisms · Kinematic Analysis · Uncertainty Quantification |
 | **Battery Intelligence** | State-of-Health Estimation · Degradation Modelling · Cross-Cell Validation · Power-Integrity Analysis |
 | **Geospatial Intelligence** | Remote Sensing · QGIS · Google Earth Engine · Satellite-Data Analysis |
+| **Hydrological Modelling** | Streamflow Forecasting · Time-Series Analysis · Machine-Learning Forecasting |
 | **Scientific Computing** | Python · Jupyter · Numerical Modelling · Simulation · Reproducible Workflows |
 | **Astrophysics** | Stellar-Population Synthesis · Galactic Dynamics · Chemo-Kinematic Analysis |
 
@@ -346,7 +373,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ### 🏢 Executive Roles
 
 | Role | Organisation |
-|---|---|
+| --- | --- |
 | **Chairman & CEO** | [AN Holdings Co.](https://anholdings.co/) |
 | **Director** | [New Space Intelligence Inc.](https://newspaceint.com/) |
 | **Executive Chairman** | [Hucha Co., Ltd](https://www.hucha.co.jp/) |
@@ -354,7 +381,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ### 🎓 Academic Appointments
 
 | Role | Institution |
-|---|---|
+| --- | --- |
 | **Visiting Professor** | Shiga University of Medical Science — Department of Legal Medicine |
 | **Visiting Professor** | Kobe Gakuin University — Department of Social Studies of Disaster Management |
 | **Visiting Professor** | University of Science and Technology, Chittagong |
@@ -364,7 +391,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 ## 🏆 Selected Recognition
 
 | Year | Recognition | Organisation / Source |
-|---|---|---|
+| --- | --- | --- |
 | **2026** | [Top 10 Visionary Entrepreneurs Shaping the Future](https://www.msn.com/en-us/money/smallbusiness/top-10-visionary-entrepreneurs-shaping-the-future-in-2026/ar-AA1VxyWp) | MSN / CEO Monthly |
 | **2025** | [Global CEO Excellence Awards — Winner](https://www.ceo-review.com/hall-of-fame/global-ceo-excellence-awards-2025/) | CEO Monthly |
 | **2022** | [Most Innovative Executive / CEO of the Year — Japan](https://apacinsider.digital/winners/nick-barua/) | APAC Insider |
@@ -384,19 +411,20 @@ I welcome research and technical collaboration in:
 - electric-vehicle battery intelligence;
 - battery State-of-Health estimation and validation;
 - geospatial intelligence and remote sensing;
+- hydrological and environmental machine learning;
 - scientific computing; and
 - computational astrophysics.
 
 For research, technical, or professional enquiries, please connect with me through:
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickbarua)
+[**LinkedIn**](https://www.linkedin.com/in/nickbarua)
 
 ---
 
 ## 📬 Research Identifiers and Professional Profiles
 
 | Platform | Profile |
-|---|---|
+| --- | --- |
 | 🟢 **ORCID** | [0000-0003-4641-0112](https://orcid.org/0000-0003-4641-0112) |
 | 🟠 **Scopus** | [Author ID 59245027800](https://www.scopus.com/pages/authors/59245027800) |
 | 🔵 **ISNI** | [0000 0005 3020 7165](https://isni.org/isni/0000000530207165) |
@@ -408,18 +436,12 @@ For research, technical, or professional enquiries, please connect with me throu
 
 ---
 
-<div align="center">
-
 ### Research Philosophy
 
 > **“From forensic reconstruction to proactive prevention — and from model accuracy to trustworthy real-world performance.”**
 
 **Dr. Nick Barua**
 
-<br>
-
-[![Google Scholar](https://img.shields.io/badge/Publications-Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hbQtWFwAAAAJ)
-[![ORCID](https://img.shields.io/badge/Research_Record-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4641-0112)
-[![LinkedIn](https://img.shields.io/badge/Professional_Profile-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickbarua)
-
-</div>
+[**Google Scholar**](https://scholar.google.com/citations?user=hbQtWFwAAAAJ) ·
+[**ORCID**](https://orcid.org/0000-0003-4641-0112) ·
+[**LinkedIn**](https://www.linkedin.com/in/nickbarua)
