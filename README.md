@@ -81,6 +81,32 @@ Earlier and parallel research includes **geospatial intelligence, remote sensing
 
 ## 🆕 Latest Publication
 
+### 🚗 NUP-REPORT 1.0
+
+[**Sensors**](https://www.mdpi.com/1424-8220/26/18/5710) · [**DOI**](https://doi.org/10.3390/s26185710) · **Open Access**
+
+**NUP-REPORT 1.0: A Proposed Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**
+
+NUP-REPORT 1.0 proposes a structured reporting and benchmarking framework for **non-upright pedestrian detection and pre-crash safety evaluation**.
+
+The framework addresses a fundamental methodological challenge in safety-critical perception research: apparently similar detection results can be difficult to compare when studies differ in posture definitions, scenario coverage, sensor and data provenance, timing conventions, uncertainty reporting, and vehicle-response assumptions.
+
+NUP-REPORT 1.0 introduces **six reporting domains, a 30-item checklist, a scenario-coverage matrix, an explicit five-timestamp event model, detection-referenced stopping formulations, and a 20-publication feasibility audit**.
+
+Its central principle is that **detection accuracy is not equivalent to safety performance**. The framework is intended to support more transparent reporting, reproducible evaluation, meaningful cross-study comparison, and future development of shared benchmarks for difficult-to-detect vulnerable road users.
+
+|                  |                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------- |
+| 📖 **Journal**   | *Sensors* 26(18), 5710                                                                            |
+| 📅 **Published** | 10 September 2026                                                                                 |
+| 👤 **Role**      | **First & Corresponding Author**                                                                  |
+| 🚗 **Area**      | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety                                   |
+| 🔗 **Article**   | [https://doi.org/10.3390/s26185710](https://doi.org/10.3390/s26185710)                             |
+
+---
+
+## 📰 Recent Publication
+
 ### 🌊 Advanced Machine Learning Techniques for Daily Streamflow Forecasting: A Case Study of the Brahmaputra River
 
 [**Scientific Reports**](https://www.nature.com/articles/s41598-026-69747-1) · [**DOI**](https://doi.org/10.1038/s41598-026-69747-1) · **Open Access**
@@ -91,35 +117,14 @@ This study investigates **machine-learning-based daily streamflow forecasting fo
 
 The work focuses not only on predictive performance, but also on **lead-time-dependent behaviour, temporal robustness, uncertainty, and the practical limitations of data-driven river-flow forecasting**.
 
-| | |
-| --- | --- |
-| 📖 **Journal** | *Scientific Reports* |
-| 📅 **Published** | 8 September 2026 |
-| 👤 **Role** | Co-Author |
-| 🔗 **Article** | [https://doi.org/10.1038/s41598-026-69747-1](https://doi.org/10.1038/s41598-026-69747-1) |
+|                  |                                                                                          |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| 📖 **Journal**   | *Scientific Reports*                                                                     |
+| 📅 **Published** | 8 September 2026                                                                         |
+| 👤 **Role**      | Co-Author                                                                                |
+| 🔗 **Article**   | [https://doi.org/10.1038/s41598-026-69747-1](https://doi.org/10.1038/s41598-026-69747-1) |
 
 ---
-
-## 📰 Recently Accepted
-
-### 🚗 NUP-REPORT 1.0
-
-**NUP-REPORT 1.0: A Minimum Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**
-
-NUP-REPORT introduces a structured reporting and benchmarking framework for **non-upright pedestrian detection and pre-crash safety evaluation**.
-
-The framework addresses a key methodological challenge in this emerging research area: safety and detection results can be difficult to compare when studies use different scenario definitions, timing conventions, evaluation metrics, validation procedures, and reporting practices.
-
-NUP-REPORT provides a common basis for **reproducible reporting, transparent benchmarking, system-timing evaluation, and safety-oriented comparison across studies**, supporting more rigorous development and assessment of technologies intended to protect pedestrians in non-upright positions.
-
-| | |
-| --- | --- |
-| 📖 **Journal** | *Sensors* |
-| 📅 **Status** | **Accepted for publication** |
-| 👤 **Role** | **First & Corresponding Author** |
-| 🚗 **Research Area** | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety |
-| 🔗 **DOI** | To be added once available |
-
 ---
 
 ## 🌟 Featured Research
@@ -183,7 +188,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | **Metric** | **Current Profile** |
 | --- | --- |
-| 🟢 **Peer-reviewed journal articles** | **10** |
+| 🟢 **Published peer-reviewed journal articles** | **10** |
 | ✍️ **First- or sole-authored journal articles** | **7** |
 | 🔒 **Japanese patent applications** | **1** |
 | 🚗 **Primary research domain** | Safety-Critical Mobility Systems |
@@ -252,18 +257,18 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | Year | Publication | Journal | Research Area | Role |
 | --- | --- | --- | --- | --- |
-| **2026** | **NUP-REPORT 1.0: A Minimum Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation** | *Sensors* — **Accepted for publication** | Non-Upright Pedestrian Safety · Benchmarking · Safety Evaluation | **First & Corresponding Author** |
+| **2026** | [**NUP-REPORT 1.0: A Proposed Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**](https://doi.org/10.3390/s26185710) | *Sensors* 26(18), 5710 | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety | **First & Corresponding Author** |
 | **2026** | [**Advanced machine learning techniques for daily streamflow forecasting: a case study of the Brahmaputra River**](https://doi.org/10.1038/s41598-026-69747-1) | *Scientific Reports* | Hydrology · Streamflow Forecasting · Machine Learning | Co-Author |
 | **2026** | [**Predictor Structure Modulates Validation Inflation and Cell-Transfer Reliability in Battery State-of-Health Estimation**](https://www.mdpi.com/2313-0105/12/9/342) | *Batteries* 12(9), 342 | Battery SoH · ML Validation · Cell Transfer | **First Author** |
 | **2026** | [**Battery State-of-Health as a Functional Safety Variable: an ISO 26262-Aligned AI Framework for Electric Vehicle ADAS Power Integrity**](https://doi.org/10.1038/s41598-026-65007-4) | *Scientific Reports* | EV Battery Safety · ADAS · Functional Safety | **First Author** |
-| **2026** | [**A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis**](https://doi.org/10.3390/vehicles8060136) | *Vehicles* 8(6), 136 | Autonomous Vehicle Safety · AI | **First Author** |
-| **2026** | [**A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty**](https://doi.org/10.3390/s26113387) | *Sensors* 26(11), 3387 | Sensor Fusion · Forensic Biomechanics | **First Author** |
+| **2026** | [**A Multi-Modal AI System for Detecting Pedestrians Lying on the Road: Simulation-Based Safety and Injury Risk Analysis**](https://doi.org/10.3390/vehicles8060136) | *Vehicles* 8(6), 136 | Autonomous Vehicle Safety · AI | **First & Corresponding Author** |
+| **2026** | [**A Physics-Grounded Multi-Modal Sensor Fusion Framework for Pedestrian Impact Kinematic Reconstruction Under Uncertainty**](https://doi.org/10.3390/s26113387) | *Sensors* 26(11), 3387 | Sensor Fusion · Forensic Biomechanics | **First & Corresponding Author** |
 | **2026** | [**Causes of Severe Injuries in Wheelchair User Motor Vehicle Passengers**](https://www.jstage.jst.go.jp/article/ehpm/31/0/31_26-00037/_article/-char/en/) | *Environmental Health and Preventive Medicine* 31:36 | Public Health · Injury Prevention | Co-Author |
-| **2025** | [**Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans**](https://doi.org/10.3390/vehicles7040149) | *Vehicles* 7(4), 149 | Computer Vision · Sensor Fusion | **First Author** |
+| **2025** | [**Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans**](https://doi.org/10.3390/vehicles7040149) | *Vehicles* 7(4), 149 | Computer Vision · Sensor Fusion |**First & Corresponding Author** |
 | **2024** | [**Enhancing Audio Classification Through MFCC Feature Extraction and Data Augmentation with CNN and RNN Models**](https://doi.org/10.14569/IJACSA.2024.0150704) | *IJACSA* 15(7) | Audio AI · Deep Learning | Co-Author |
 | **2022** | [**Formation and Evolution of Galaxies: Starlight Synthesis Algorithm**](https://doi.org/10.4236/ijaa.2022.121005) | *International Journal of Astronomy and Astrophysics* 12(1), 68–93 | Computational Astrophysics | **Sole Author** |
 
-> **NUP-REPORT 1.0:** Accepted for publication in *Sensors*. DOI and final article link will be added once available.
+
 
 ### Complete Publication Record
 
@@ -284,7 +289,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 | Programme | Research Direction | Status |
 | --- | --- | --- |
 | **AFODS** | Multimodal detection and functional-safety response for pedestrians lying on the road | Computational and translational research |
-| **Non-Upright Pedestrian Safety** | Detection, injury prevention, forensic evidence, benchmarking, and system-level safety assurance | **NUP-REPORT accepted · Active research programme** |
+| **Non-Upright Pedestrian Safety** | Detection, injury prevention, forensic evidence, benchmarking, and system-level safety assurance | **NUP-REPORT 1.0 published · Active research programme** |
 | **Forensic Kinematic Reconstruction** | Physics-grounded reconstruction of pedestrian impacts under uncertainty | Phase 1 framework developed |
 | **EV Battery Functional Safety** | Battery SoH, power margin, and safety-critical ADAS integrity | Peer-reviewed framework published |
 | **Battery ML Reliability** | Validation inflation, predictor structure, and cross-cell transfer | Peer-reviewed study published |
