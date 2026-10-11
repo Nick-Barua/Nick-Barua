@@ -280,8 +280,10 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | Type | Reference | Area | Status |
 | --- | --- | --- | --- |
-| Japanese Patent Application | **特願2025-167440** | Multimodal Sensor-Fusion System | Application filed · Patent pending |
+| PCT International Application | PCT/JP2026/035831 (international filing date 2 Oct 2026; claims priority to JP 2025-167440) | Multimodal Sensor-Fusion System | Filed · Pending · Not yet published |
+| Japanese Patent Application | 特願2025-167440 (filed 3 Oct 2025) | Multimodal Sensor-Fusion System | Application filed · Patent pending |
 
+*Applicant: National University Corporation Shiga University of Medical Science. Inventors: Masahito Hitosugi, Saikat Nick Barua.*
 ---
 
 ## 📝 Current Research Programme
