@@ -397,7 +397,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | Year | Recognition | Organisation / Source |
 | --- | --- | --- |
-| **2026** | [Top 10 Visionary Entrepreneurs Shaping the Future](https://www.msn.com/en-us/money/smallbusiness/top-10-visionary-entrepreneurs-shaping-the-future-in-2026/ar-AA1VxyWp) | MSN / CEO Monthly |
+| **2026** | [Top 10 Visionary Entrepreneurs Shaping the Future](https://web.archive.org/web/20250614164332/http://forbesae.com/From-the-Stars-to-the-Boardrooms-Dr-Nick-Baruas-Meteoric-Rise-in-the-Executive-Leadership.html) | MSN |
 | **2025** | [Global CEO Excellence Awards — Winner](https://www.ceo-review.com/hall-of-fame/global-ceo-excellence-awards-2025/) | CEO Monthly |
 | **2022** | [Most Innovative Executive / CEO of the Year — Japan](https://apacinsider.digital/winners/nick-barua/) | APAC Insider |
 
