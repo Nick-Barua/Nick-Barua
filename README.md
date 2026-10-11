@@ -404,9 +404,6 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 ## 📰 Media Coverage
 
-<details>
-<summary>Selected interviews and profile features (not peer-reviewed research)</summary>
-
 | Year | Article | Publication |
 | --- | --- | --- |
 | **2025** | [Forging a Global Future: Nick Barua's Remake of Japan's Tech Landscape](https://ceotimes.com/forging-a-global-future-nick-baruas-remake-of-japans-tech-landscape/) | CEO Times |
