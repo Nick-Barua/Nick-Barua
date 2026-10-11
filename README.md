@@ -407,8 +407,8 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 | Year | Article | Publication |
 | --- | --- | --- |
 | **2025** | [Forging a Global Future: Nick Barua's Remake of Japan's Tech Landscape](https://ceotimes.com/forging-a-global-future-nick-baruas-remake-of-japans-tech-landscape/) | CEO Times |
-| **2025** | [From the Stars to the Boardrooms: Dr. Nick Barua's Meteoric Rise in the Executive Leadership](https://web.archive.org/web/20250614164332/http://forbesae.com/From-the-Stars-to-the-Boardrooms-Dr-Nick-Baruas-Meteoric-Rise-in-the-Executive-Leadership.html) | forbesae.com (archived) |
-| **2025** | [The Physicist's Gambit: How a Former NASA Scientist is Reshaping Japan's Tech Frontier](https://usanews.com/newsroom/the-physicist-s-gambit-how-a-former-nasa-scientist-is-reshaping-japan-s-tech-frontier) | usanews.com |
+| **2025** | [From the Stars to the Boardrooms: Dr. Nick Barua's Meteoric Rise in the Executive Leadership](https://web.archive.org/web/20250614164332/http://forbesae.com/From-the-Stars-to-the-Boardrooms-Dr-Nick-Baruas-Meteoric-Rise-in-the-Executive-Leadership.html) |Forbes Arabia |
+| **2025** | [The Physicist's Gambit: How a Former NASA Scientist is Reshaping Japan's Tech Frontier](https://usanews.com/newsroom/the-physicist-s-gambit-how-a-former-nasa-scientist-is-reshaping-japan-s-tech-frontier) | USA News |
 | **2024** | [Dr. Nick Barua: Multi-Faceted Career of Yale Physicist to Japan's Business Icon](https://timeiconic.com/dr-nick-barua-multi-faceted-career-of-yale-physicist-to-japans-business-icon/) | Time Iconic |
 
 </details>
