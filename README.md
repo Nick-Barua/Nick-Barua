@@ -81,6 +81,21 @@ Earlier and parallel research includes **geospatial intelligence, remote sensing
 
 ## 🆕 Latest Publication
 
+### 🛩️ ASSURE-BVLOS
+
+**ASSURE-BVLOS: runtime assurance for risk-adaptive space–air–ground unmanned aircraft operations**
+
+*Aerospace Systems (Springer Nature) · 2026 · Sole Author*
+
+A runtime-assurance framework for beyond-visual-line-of-sight drone operations, integrating communications, sensing, external data, environmental conditions and aircraft health. It links changing risks and uncertainty to explicit, traceable supervisory responses.
+
+Evaluated across 100,000 synthetic states; further testing and flight validation remain necessary before operational use.
+
+📄 [Article / DOI](https://doi.org/10.1007/s42401-026-00565-z)  
+📖 [Free read-only full text — Springer SharedIt](https://rdcu.be/KP3ygpN3PaHa)  
+💻 [Code and reproducibility materials](https://github.com/Nick-Barua/ASSURE-BVLOS)
+
+
 ### 🚗 NUP-REPORT 1.0
 
 [**Sensors**](https://www.mdpi.com/1424-8220/26/18/5710) · [**DOI**](https://doi.org/10.3390/s26185710) · **Open Access**
@@ -188,12 +203,13 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | **Metric** | **Current Profile** |
 | --- | --- |
-| 🟢 **Published peer-reviewed journal articles** | **10** |
-| ✍️ **First- or sole-authored journal articles** | **7** |
+| 🟢 **Published peer-reviewed journal articles** | **11** |
+| ✍️ **First- or sole-authored journal articles** | **8** |
 | 🔒 **Japanese patent applications** | **1** |
 | 🚗 **Primary research domain** | Safety-Critical Mobility Systems |
 | 🔋 **Growing research stream** | EV Battery Intelligence & SoH Reliability |
-| 🔬 **Core methods** | Multimodal AI · Sensor Fusion · Physics-Based Modelling · Machine Learning · Functional Safety |
+| 🛩️ **UAV safety research** | BVLOS Operations · Runtime Assurance · Risk-Adaptive Autonomy |
+| 🔬 **Core methods** | Multimodal AI · Sensor Fusion · Physics-Based Modelling · Machine Learning · Runtime Assurance · Functional Safety |
 | 🦴 **Safety science** | Forensic Biomechanics · Injury Prevention · Accident Reconstruction |
 | 🌐 **Additional domains** | Geospatial Intelligence · Remote Sensing · Hydrological Forecasting · Astrophysics |
 
@@ -257,7 +273,8 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | Year | Publication | Journal | Research Area | Role |
 | --- | --- | --- | --- | --- |
-| **2026** | [**NUP-REPORT 1.0: A Proposed Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**](https://doi.org/10.3390/s26185710) | *Sensors* 26(18), 5710 | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety | **First & Corresponding Author** |
+| **2026** | [**ASSURE-BVLOS: runtime assurance for risk-adaptive space–air–ground unmanned aircraft operations**](https://doi.org/10.1007/s42401-026-00565-z) | *Aerospace Systems* | UAV Safety · Runtime Assurance · Adaptive Autonomy | **Sole Author** |
+| **2026** | [**NUp-REPORT 1.0: A Proposed Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**](https://doi.org/10.3390/s26185710) | *Sensors* 26(18), 5710 | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety | **First & Corresponding Author** |
 | **2026** | [**Advanced machine learning techniques for daily streamflow forecasting: a case study of the Brahmaputra River**](https://doi.org/10.1038/s41598-026-69747-1) | *Scientific Reports* | Hydrology · Streamflow Forecasting · Machine Learning | *Co-Author* |
 | **2026** | [**Predictor Structure Modulates Validation Inflation and Cell-Transfer Reliability in Battery State-of-Health Estimation**](https://www.mdpi.com/2313-0105/12/9/342) | *Batteries* 12(9), 342 | Battery SoH · ML Validation · Cell Transfer | **First Author** |
 | **2026** | [**Battery State-of-Health as a Functional Safety Variable: an ISO 26262-Aligned AI Framework for Electric Vehicle ADAS Power Integrity**](https://doi.org/10.1038/s41598-026-65007-4) | *Scientific Reports* | EV Battery Safety · ADAS · Functional Safety | **First Author** |
