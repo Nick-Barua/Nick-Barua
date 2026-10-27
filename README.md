@@ -10,11 +10,19 @@
 
 <br>
 
+[![ISNI](https://img.shields.io/badge/ISNI-0000_0005_3020_7165-8A2BE2?style=flat-square)](https://isni.org/isni/0000000530207165)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4641--0112-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4641-0112)
-[![Scopus](https://img.shields.io/badge/Scopus-59245027800-E9711C?style=flat-square&logo=scopus&logoColor=white)](https://www.scopus.com/pages/authors/59245027800)
+[![Scopus](https://img.shields.io/badge/Scopus-59245027800-E9711C?style=flat-square&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59245027800)
+[![Web of Science](https://img.shields.io/badge/WoS_ResearcherID-AFV--4860--2022-5E33BF?style=flat-square)](https://www.webofscience.com/wos/author/record/AFV-4860-2022)
+[![OpenAlex](https://img.shields.io/badge/OpenAlex-A5049411705-C8312B?style=flat-square)](https://openalex.org/a5049411705)
+[![Semantic Scholar](https://img.shields.io/badge/Semantic_Scholar-2158234679-1857B6?style=flat-square)](https://www.semanticscholar.org/author/-/2158234679)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Nick_Barua-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hbQtWFwAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Nick_Barua-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nick-Barua)
-[![researchmap](https://img.shields.io/badge/researchmap-nickbarua-005BAC?style=flat-square)](https://researchmap.jp/nickbarua)
+[![researchmap](https://img.shields.io/badge/researchmap-Nick--Barua-005BAC?style=flat-square)](https://researchmap.jp/Nick-Barua)
+[![J-GLOBAL](https://img.shields.io/badge/J--GLOBAL-202201012730383494-0B6623?style=flat-square)](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202201012730383494)
+[![CiNii](https://img.shields.io/badge/CiNii_Research-1410026970011603968-00A0E9?style=flat-square)](https://cir.nii.ac.jp/crid/1410026970011603968)
+[![SSRN](https://img.shields.io/badge/SSRN-5116230-1F3A5F?style=flat-square)](https://ssrn.com/author=5116230)
+[![Dimensions](https://img.shields.io/badge/Dimensions-ur.015431605344.24-00ADEF?style=flat-square)](https://app.dimensions.ai/details/entities/publication/author/ur.015431605344.24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nickbarua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickbarua)
 
 <br>
