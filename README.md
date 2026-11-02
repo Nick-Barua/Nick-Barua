@@ -95,13 +95,20 @@ Earlier and parallel research includes **geospatial intelligence, remote sensing
 
 *Aerospace Systems (Springer Nature) · 2026 · Sole Author*
 
-A runtime-assurance framework for beyond-visual-line-of-sight drone operations, integrating communications, sensing, external data, environmental conditions and aircraft health. It links changing risks and uncertainty to explicit, traceable supervisory responses.
+A runtime-assurance framework for beyond-visual-line-of-sight (BVLOS) drone operations, integrating communications, sensing, external data, environmental conditions and aircraft health. It links changing risks and uncertainty to explicit, traceable supervisory responses.
 
-Evaluated across 100,000 synthetic states; further testing and flight validation remain necessary before operational use.
+Evaluated across 100,000 synthetic states. Further simulation, hardware testing and controlled flight validation remain necessary before operational use.
 
-📄 [Article / DOI](https://doi.org/10.1007/s42401-026-00565-z)  
-📖 [Free read-only full text — Springer SharedIt](https://rdcu.be/KP3ygpN3PaHa)  
-💻 [Code and reproducibility materials](https://github.com/Nick-Barua/ASSURE-BVLOS)
+| | |
+| --- | --- |
+| 📖 **Journal** | *Aerospace Systems* (Springer Nature) |
+| 📅 **Published online** | 26 October 2026 |
+| 👤 **Role** | **Sole and Corresponding Author** |
+| 🛩️ **Area** | UAV Safety · BVLOS Operations · Runtime Assurance · Risk-Adaptive Autonomy |
+| 🔗 **Article / DOI** | [10.1007/s42401-026-00565-z](https://doi.org/10.1007/s42401-026-00565-z) |
+| 💻 **Code and reproducibility materials** | [ASSURE-BVLOS on GitHub](https://github.com/Nick-Barua/ASSURE-BVLOS) |
+
+---
 
 
 ### 🚗 NUP-REPORT 1.0
