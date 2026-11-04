@@ -89,6 +89,27 @@ Earlier and parallel research includes **geospatial intelligence, remote sensing
 
 ## 🆕 Latest Publication
 
+### 🚆 URISM — Rail-Intrusion Safety
+
+**A unified rail-intrusion safety framework for contact avoidance: Integrating exposure control, detection timing, and braking feasibility**
+
+*Traffic Injury Prevention (Taylor & Francis) · 2026*
+
+A framework connecting track-entry exposure control, detection timing, system-response delays and braking feasibility. It examines how these factors influence contact-avoidance probability and residual impact speed when a rail intrusion occurs.
+
+The computational evaluation uses illustrative assumptions; site-specific calibration and validation remain necessary before practical application.
+
+| | |
+| --- | --- |
+| 📖 **Journal** | *Traffic Injury Prevention* |
+| 📅 **Published online** | 3 November 2026 |
+| 👥 **Authors** | Nick Barua · Masahito Hitosugi |
+| 👤 **Role** | **First & Corresponding Author**   |
+| 🚆 **Area** | Railway Safety · Intrusion Prevention · Detection Timing · Braking Feasibility |
+| 🔗 **Article / DOI** | [10.1080/15389588.2026.2752024](https://doi.org/10.1080/15389588.2026.2752024) |
+
+---
+
 ### 🛩️ ASSURE-BVLOS
 
 **ASSURE-BVLOS: runtime assurance for risk-adaptive space–air–ground unmanned aircraft operations**
@@ -218,8 +239,8 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | **Metric** | **Current Profile** |
 | --- | --- |
-| 🟢 **Published peer-reviewed journal articles** | **11** |
-| ✍️ **First- or sole-authored journal articles** | **8** |
+| 🟢 **Published peer-reviewed journal articles** | **12** |
+| ✍️ **First- or sole-authored journal articles** | **9** |
 | 🔒 **Japanese patent applications** | **1** |
 | 🚗 **Primary research domain** | Safety-Critical Mobility Systems |
 | 🔋 **Growing research stream** | EV Battery Intelligence & SoH Reliability |
@@ -288,6 +309,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | Year | Publication | Journal | Research Area | Role |
 | --- | --- | --- | --- | --- |
+|  **2026** | [**A unified rail-intrusion safety framework for contact avoidance: Integrating exposure control, detection timing, and braking feasibility**](https://doi.org/10.1080/15389588.2026.2752024) | Traffic Injury Prevention | Railway Safety · Exposure Control · Detection Timing · Braking Feasibility | **First & Corresponding Author** |
 | **2026** | [**ASSURE-BVLOS: runtime assurance for risk-adaptive space–air–ground unmanned aircraft operations**](https://doi.org/10.1007/s42401-026-00565-z) | *Aerospace Systems* | UAV Safety · Runtime Assurance · Adaptive Autonomy | **Sole Author** |
 | **2026** | [**NUp-REPORT 1.0: A Proposed Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**](https://doi.org/10.3390/s26185710) | *Sensors* 26(18), 5710 | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety | **First & Corresponding Author** |
 | **2026** | [**Advanced machine learning techniques for daily streamflow forecasting: a case study of the Brahmaputra River**](https://doi.org/10.1038/s41598-026-69747-1) | *Scientific Reports* | Hydrology · Streamflow Forecasting · Machine Learning | *Co-Author* |
