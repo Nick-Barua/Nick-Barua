@@ -150,6 +150,7 @@ Its central principle is that **detection accuracy is not equivalent to safety p
 | ---------------- | ------------------------------------------------------------------------------------------------- |
 | 📖 **Journal**   | *Sensors* 26(18), 5710                                                                            |
 | 📅 **Published** | 10 September 2026                                                                                 |
+| 👥 **Authors**   | Nick Barua · Masahito Hitosugi |
 | 👤 **Role**      | **First & Corresponding Author**                                                                  |
 | 🚗 **Area**      | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety                                   |
 | 🔗 **Article**   | [https://doi.org/10.3390/s26185710](https://doi.org/10.3390/s26185710)                             |
@@ -172,6 +173,7 @@ The work focuses not only on predictive performance, but also on **lead-time-dep
 | ---------------- | ---------------------------------------------------------------------------------------- |
 | 📖 **Journal**   | *Scientific Reports*                                                                     |
 | 📅 **Published** | 8 September 2026                                                                         |
+| 👥 **Authors**   | Kazy Noor-e-Alam Siddiquee, Md Tanjil Sarker, Marran Al Qwaid, Nick Barua, Kazi Shamima Akter, Shohana Chowdhury, Md Sabbir Hossen & Md. Shabiul Islam |
 | 👤 **Role**      | Co-Author                                                                                |
 | 🔗 **Article**   | [https://doi.org/10.1038/s41598-026-69747-1](https://doi.org/10.1038/s41598-026-69747-1) |
 
@@ -198,6 +200,7 @@ The framework examines how battery degradation and auxiliary electrical demand m
 | --- | --- |
 | 📖 **Journal** | *Scientific Reports* |
 | 📅 **Published** | 3 August 2026 |
+| 👥 **Authors**   |Nick Barua, Md Tanjil Sarker, Marran Al Qwaid, Md. Shabiul Islam, Shah Mohazzem Hossain & Kazy Noor-e-Alam Siddiquee |
 | 👤 **Role** | **First Author** |
 | 🔗 **Article** | [https://doi.org/10.1038/s41598-026-65007-4](https://doi.org/10.1038/s41598-026-65007-4) |
 
@@ -213,6 +216,7 @@ This work develops a physics-grounded framework combining **multimodal sensing, 
 | --- | --- |
 | 📖 **Journal** | *Sensors* 26(11), 3387 |
 | 📅 **Published** | 2026 |
+| 👥 **Authors** | Nick Barua · Masahito Hitosugi |
 | 👤 **Role** | **First Author** |
 | 🔗 **Article** | [https://doi.org/10.3390/s26113387](https://doi.org/10.3390/s26113387) |
 
@@ -230,6 +234,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 | --- | --- |
 | 📖 **Journal** | *Vehicles* 8(6), 136 |
 | 📅 **Published** | 2026 |
+| 👥 **Authors** | Nick Barua · Masahito Hitosugi |
 | 👤 **Role** | **First Author** |
 | 🔗 **Article** | [https://doi.org/10.3390/vehicles8060136](https://doi.org/10.3390/vehicles8060136) |
 
