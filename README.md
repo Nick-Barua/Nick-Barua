@@ -309,7 +309,7 @@ The work combines multimodal sensing, AI-based detection, simulation, and injury
 
 | Year | Publication | Journal | Research Area | Role |
 | --- | --- | --- | --- | --- |
-|  **2026** | [**A unified rail-intrusion safety framework for contact avoidance: Integrating exposure control, detection timing, and braking feasibility**](https://doi.org/10.1080/15389588.2026.2752024) | Traffic Injury Prevention | Railway Safety · Exposure Control · Detection Timing · Braking Feasibility | **First & Corresponding Author** |
+|  **2026** | [**A unified rail-intrusion safety framework for contact avoidance: Integrating exposure control, detection timing, and braking feasibility**](https://doi.org/10.1080/15389588.2026.2752024) | *Traffic Injury Prevention* | Railway Safety · Exposure Control · Detection Timing · Braking Feasibility | **First & Corresponding Author** |
 | **2026** | [**ASSURE-BVLOS: runtime assurance for risk-adaptive space–air–ground unmanned aircraft operations**](https://doi.org/10.1007/s42401-026-00565-z) | *Aerospace Systems* | UAV Safety · Runtime Assurance · Adaptive Autonomy | **Sole Author** |
 | **2026** | [**NUp-REPORT 1.0: A Proposed Reporting and Benchmarking Framework for Non-Upright Pedestrian Detection and Pre-Crash Safety Evaluation**](https://doi.org/10.3390/s26185710) | *Sensors* 26(18), 5710 | Non-Upright Pedestrian Safety · Benchmarking · Pre-Crash Safety | **First & Corresponding Author** |
 | **2026** | [**Advanced machine learning techniques for daily streamflow forecasting: a case study of the Brahmaputra River**](https://doi.org/10.1038/s41598-026-69747-1) | *Scientific Reports* | Hydrology · Streamflow Forecasting · Machine Learning | *Co-Author* |
